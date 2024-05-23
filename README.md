@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- Portfolio Website [https://www.jitanshuraut.live/]
+- Portfolio Website [jitanshuraut.live](https://www.jitanshuraut.live/) 
 
 - 📫 How to reach me **https://twitter.com/Jitanshu_Raut**
 
