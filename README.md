@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jitanshu Raut</h1>
 <h3 align="center">FullStack developer</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitanshuraut&label=Profile%20views&color=0e75b6&style=flat" alt="adityapaul18" /> </p>
 <p align="center">
   <img src="https://github.com/jitanshuraut/jitanshuraut/assets/96559286/4d232525-cee3-4f13-8b69-fc2fbb1501a3" alt="MasterHead"/>
 </p>
